@@ -11,5 +11,5 @@
 Занимаюсь в основном Backend'ом, умею работать с MySQl, SQLite, PostgreSQL, пробовал себя в React
 На данный момент активно преподаю различные дисциплины в TOP Academy
 ### Контакты для связи:
-[Telegram](https://t.me/Ad1ozZz)<br>
-[Email](mailto:sagrus12042007@gmail.com)
+![Telegram](telegram_icon.png) [Telegram](https://t.me/Ad1ozZz)<br>
+![email](email_icon.png) [Email](mailto:sagrus12042007@gmail.com)
