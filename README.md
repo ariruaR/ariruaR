@@ -62,8 +62,8 @@ Projects related to object detection, image degradation analysis, and YOLO-based
 
 ## Contact
 
-- Telegram: [@your_username](https://t.me/your_username)
-- Email: [your_email@example.com](mailto:your_email@example.com)
+- Telegram: [@Ad1ozZz](https://t.me/Ad1ozZz)
+- Email: [ariruarriuar@gmail.com](mailto:ariruarriuar@gmail.com)
 
 ---
 
